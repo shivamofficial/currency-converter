@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+select, input, button {
+    padding: 5px;
+    margin: 5px;
+}
+
+
+.converter-container {
+    border: 2px solid #ccc;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: azure;
+  }
+  
+.result-box {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+  
+#history-table th,
+#history-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+  
+#history-table th {
+    background-color: #f2f2f2;
+}
+  
+#history-table td {
+    vertical-align: middle;
+}
+
